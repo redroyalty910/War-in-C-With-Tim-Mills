@@ -1,1 +1,1 @@
-# War_In_C#_Tim_Mills
+Silly little project made for my 'Intro to Game Dev' course, we utilized C# to create the game "war" within Vistual Studio :)
